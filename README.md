@@ -1,5 +1,7 @@
 ### I am Jugal Kishore Mosalpuri 👋
 
+- 🔭 I’m currently working on Laravel/Php
+
 <!--
 **jugalmosalpuri/jugalmosalpuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
