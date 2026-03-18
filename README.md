@@ -3,10 +3,9 @@
 💻 Full Stack Developer | Laravel | Node.js | React.js
 
 - 🔭 I’m currently working on **Laravel / PHP Web Applications**
-- 🌱 I’m currently learning **Node.js & React.js**
+- 💼 I have experience in **Node.js & React.js**
 - 👯 I’m looking to collaborate on **Open Source & Web Development Projects**
 - 💬 Ask me about **Laravel, PHP, APIs, MySQL, jQuery**
-- 📫 How to reach me: **your-email@example.com**
 - ⚡ Fun fact: **I love building real-world web applications and solving problems with code**
 
 ---
