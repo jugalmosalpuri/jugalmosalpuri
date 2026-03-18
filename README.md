@@ -1,18 +1,45 @@
-### I am Jugal Kishore Mosalpuri 👋
+### Hi there 👋 I am Jugal Kishore Mosalpuri
 
-- 🔭 I’m currently working on Laravel/Php
+💻 Full Stack Developer | Laravel | Node.js | React.js
 
-<!--
-**jugalmosalpuri/jugalmosalpuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Laravel / PHP Web Applications**
+- 🌱 I’m currently learning **Node.js & React.js**
+- 👯 I’m looking to collaborate on **Open Source & Web Development Projects**
+- 💬 Ask me about **Laravel, PHP, APIs, MySQL, jQuery**
+- 📫 How to reach me: **your-email@example.com**
+- ⚡ Fun fact: **I love building real-world web applications and solving problems with code**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+**Frontend**
+- React.js
+- JavaScript
+- jQuery
+- HTML5 / CSS3
+
+**Backend**
+- Laravel (PHP)
+- Node.js
+
+**Database**
+- MySQL
+
+**Tools**
+- Git
+- GitHub
+- Postman
+- REST API Development
+
+---
+
+### 🚀 Goals
+
+- Become an Expert Full Stack Developer  
+- Build scalable SaaS products  
+- Contribute to Open Source  
+
+---
+
+⭐ Thanks for visiting my profile!
