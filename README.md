@@ -33,12 +33,4 @@
 
 ---
 
-### 🚀 Goals
-
-- Become an Expert Full Stack Developer  
-- Build scalable SaaS products  
-- Contribute to Open Source  
-
----
-
 ⭐ Thanks for visiting my profile!
